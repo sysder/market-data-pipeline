@@ -1,0 +1,14 @@
+# 秘密情報
+.env
+.env.*
+*.secret
+credentials*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / エディタ
+.DS_Store
