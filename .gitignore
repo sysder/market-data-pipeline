@@ -15,3 +15,9 @@ venv/
 
 # データ
 data/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
